@@ -1,6 +1,6 @@
 # dotfiles
-.*
 !.gitignore
+!.gitkeep
 !.github
 !.mailmap
 

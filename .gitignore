@@ -1,0 +1,39 @@
+# dotfiles
+.*
+!.gitignore
+!.github
+!.mailmap
+
+# Compiled Python files
+*.py[co]
+__pycache__/
+
+# Log files
+*.log
+
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Visual Studio files
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.ilk
+*.sbr
+*.sdf
+Ankh.NoLoad
+
+# Subversion files
+.svn
+
+# Microsoft Office temporary files
+~$*

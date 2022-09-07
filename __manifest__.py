@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 ###################################################################################
-# Author        : Quaint Park <http://www.quaintpark.com/>
-# Copyright (c) 2022 Quaint Park. All Rights Reservd.
+# Author: Quaint Park <https://www.quaintpark.com>
+# Copyright (c) Quaint Park. All Rights Reserved.
 #
-# This program is copyright property of the author, mentioned above.
+# This program is the copyright property of the author, mentioned above.
 # You can't redistribute it and/or modify it without permission.
 #
 # You should have received a copy of the License along with this program.
@@ -11,15 +11,15 @@
 ###################################################################################
 {
     'name': 'Quaint Starter',
-    'summary': """Basic architecture.""",
+    'summary': """Basic description.""",
     'description': """
 Quaint Starter
 ==============
-Basic architecture.
+Basic description.
     """,
     'version': '13.0.1.0',
     'author': 'Quaint Park',
-    'website': 'http://www.quaintpark.com',
+    'website': 'https://www.quaintpark.com',
     'category': 'Tools',
     'sequence': 1,
     'depends': [
@@ -54,7 +54,7 @@ Basic architecture.
             'werkzeug',
         ],
     },
-    'icon': '/quaint_starter/static/description/icon.png',
+    'icon': '/qp_starter/static/description/icon.png',
     'images': [
         'static/description/banner.png',
     ],
